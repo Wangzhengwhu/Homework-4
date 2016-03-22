@@ -10,8 +10,15 @@
 
 首先忽略bN^2对人口总数的影响，b=0，a=10,N(0)=1000,dt=1,情况下的图像  
 
-[程序]()
+[程序](https://github.com/Wangzhengwhu/Homework-4/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9A%20b%3D0.py)
 
 ![b=0人口增长模型](https://github.com/Wangzhengwhu/Homework-4/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9Ab%3D0.png)  
+
+其次我们考虑bN^2对人口增长的模型影响，其它参数如上，b=0.02模型下计算的结果，画出图像
+
+[程序](https://github.com/Wangzhengwhu/Homework-4/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9A%20b%3D0.02.py)  
+![b=0.02人口增长模型](https://github.com/Wangzhengwhu/Homework-4/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9Ab%3D0.02.png)   
+
+
 
 
