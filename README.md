@@ -22,7 +22,8 @@
 [程序b=0.01人口增长模型](https://github.com/Wangzhengwhu/Homework-4/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9A%20b%3D0.01.py)  
 ![程序b=0.01人口增长模型](https://github.com/Wangzhengwhu/Homework-4/blob/master/%E4%BA%BA%E5%8F%A3%E7%A8%B3%E5%AE%9Ab%3D0.01.png)  
 
-
+##总结
+总感觉数值解法的程序有点小问题，图像画出来感觉不对劲。
 
 ##致谢
 感谢刘星辰同学和遥大仙的帮助
